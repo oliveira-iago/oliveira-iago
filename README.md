@@ -6,7 +6,7 @@
 <br>
 • 📚 Fazendo Ciências da Computação e Técnico em Informática
 <br>
-• 🖥️ Estudo Python, C#, MySQL, Javascript, CSS e HTML
+• 🖥️ Estudando Python, C#, MySQL, Javascript, CSS e HTML
 <br><br>
 <div style="display: inline_block" align="left">
   <img align="center" alt="Iago-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
