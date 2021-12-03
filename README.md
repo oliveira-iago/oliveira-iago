@@ -9,7 +9,7 @@
 <br>
 • 📚 Estudo Python, C#, MySQL, Javascript, CSS e HTML
 
-<div align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Iago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
