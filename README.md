@@ -1,7 +1,7 @@
 ## Olá! Sou o Iago! 👋
 
 <div align="left">
-  <a>
+
   • 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a>
   <br>
   • 💼 Atuando como Estagiário Técnico
@@ -13,10 +13,9 @@
 
   <a href="https://github.com/oliveira-iago">
 <!--
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=oliveira-iago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="140em" width="140em" src = "https://github-readme-stats.vercel.app/api?username=oliveira-iago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 -->
-  <img height = "135em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iago&layout=compact&langs_count=7&theme=dracula">
-  </a>
+  <img height="140em" width="140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iago&layout=compact&langs_count=7&theme=dracula">
   </a>
 </div>
 
