@@ -9,7 +9,7 @@
   • 📚 Fazendo Ciências da Computação e Técnico em Informática
   <br>
   • 🖥️ Estudando Python, C#, MySQL, Javascript, CSS e HTML
-  <br><br>
+  <br>
 
   <a href="https://github.com/oliveira-iago">
 <!--
