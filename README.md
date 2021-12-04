@@ -19,6 +19,8 @@
   </a>
 </div>
 
+<br><br>
+
 <div style="display: inline_block" align="left">
   <img align="center" alt="Iago-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iago-Csharp" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
