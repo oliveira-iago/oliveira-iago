@@ -6,7 +6,7 @@
   <br>
   • 💼 Atuando como Estagiário Técnico
   <br>
-  • 📚 Fazendo Ciências da Computação e Técnico em Informática
+  • 📚 Cursando Ciências da Computação e Técnico em Informática
   <br>
   • 🖥️ Estudando Python, C#, MySQL, Javascript, CSS e HTML
   <br>
