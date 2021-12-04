@@ -1,6 +1,6 @@
 ## Olá! Sou o Iago! 👋
 
-<div style="display: inline_block" align="center">
+<div style="display: flex" align="left">
   • 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a>
   <br>
   • 💼 Atuando como Estagiário Técnico
