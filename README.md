@@ -37,8 +37,6 @@
   <img align="center" alt="Iago-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<br>
-
 ##
 ##### 💬 Me chame para bater um papo :)<br>
   <div height="60" align="left">  
