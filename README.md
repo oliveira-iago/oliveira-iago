@@ -2,8 +2,8 @@
 
 ##### Completamente apaixonado por tecnologia e inovação!
 
+##
 <div align="left">
-  ##
   
   ##### 🙋🏻‍♂️ Um pouco sobre mim:
   • 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a>
@@ -15,8 +15,8 @@
   • 🖥️ Estudando Python, C#, MySQL, Javascript, CSS e HTML
   <br>
 
-  <a href="https://github.com/oliveira-iago">
   ##
+  <a href="https://github.com/oliveira-iago">
 <!--
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=oliveira-iago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 -->
@@ -27,9 +27,8 @@
 
 <br>
 
-<div style="display: inline_block" align="left">
-  ##
-  
+##
+<div style="display: inline_block" align="left">  
   ##### 🧠 Tenho conhecimento em:
   <img align="center" alt="Iago-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iago-Csharp" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -41,9 +40,8 @@
 
 <br>
 
-<div height="60" align="left">
-  ##
-  
+##
+<div height="60" align="left">  
   ##### 💬 Me chame para bater um papo :)
   <a height="60" href="https://www.linkedin.com/in/iagoalvesoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a height="60" href="https://www.youtube.com/channel/UC3EHSPdxtfPLLEQZvc-yhaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
