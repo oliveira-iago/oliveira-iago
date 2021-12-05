@@ -24,8 +24,6 @@
   </a>
 </div>
 
-<br>
-
 ##
 ##### 🧠 Tenho conhecimento em:<br>
   <div style="display: inline_block" align="left">  
