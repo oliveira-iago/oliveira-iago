@@ -1,6 +1,5 @@
 # Olá! Sou o Iago! 👋
-
-##### Completamente apaixonado por tecnologia e inovação!
+#### Completamente apaixonado por tecnologia e inovação!
 
 ##
 <div align="left">
@@ -20,7 +19,7 @@
 <!--
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=oliveira-iago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 -->
-  ##### 👾 Linguagens mais usadas em meus repositórios
+  ##### 👾 Linguagens mais usadas em meus repositórios <br>
   <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iago&layout=compact&langs_count=7&theme=dracula">
   </a>
 </div>
