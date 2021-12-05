@@ -27,9 +27,8 @@
 <br>
 
 ##
-<div style="display: inline_block" align="left">  
-  <br>
-  ##### 🧠 Tenho conhecimento em:<br>
+##### 🧠 Tenho conhecimento em:<br>
+  <div style="display: inline_block" align="left">  
   <img align="center" alt="Iago-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iago-Csharp" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Iago-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,9 +40,8 @@
 <br>
 
 ##
-<div height="60" align="left">  
-  <br>
-  ##### 💬 Me chame para bater um papo :)<br>
+##### 💬 Me chame para bater um papo :)<br>
+  <div height="60" align="left">  
   <a height="60" href="https://www.linkedin.com/in/iagoalvesoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a height="60" href="https://www.youtube.com/channel/UC3EHSPdxtfPLLEQZvc-yhaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a height="60" href="https://www.instagram.com/jovemtech.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
