@@ -11,7 +11,7 @@
   <br>
   • 📚 Cursando Ciências da Computação e Técnico em Informática
   <br>
-  • 🖥️ Estudando Python, C#, MySQL, Javascript, CSS e HTML
+  • 🖥️ Estudando Python, C#, Java, MySQL, Javascript, CSS e HTML
   <br>
 
   ##
