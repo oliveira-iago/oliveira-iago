@@ -7,11 +7,11 @@
   #### 😜 Um pouco sobre mim:
   • 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a>
   <br>
-  • 💼 Atuando como Estagiário Técnico
+  • 💼 Atuando como Desenvolvedor Web Full Stack
   <br>
   • 📚 Cursando Ciências da Computação e Técnico em Informática
   <br>
-  • 🖥️ Estudando Python, C#, Java, MySQL, Javascript, CSS e HTML
+  • 🖥️ Estudando Python, C#, Java, MySQL, Angular, Typescript, Javascript, CSS e HTML
   <br>
 
   ##
