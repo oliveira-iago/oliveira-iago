@@ -9,9 +9,9 @@
   <br>
   • 💼 Atuando como Desenvolvedor Web Full Stack
   <br>
-  • 📚 Cursando Ciências da Computação e Técnico em Informática
+  • 📚 Cursando Ciências da Computação na Faculdade Impacta
   <br>
-  • 🖥️ Estudando Python, C#, Java, MySQL, Angular, Typescript, Javascript, CSS e HTML
+  • 🖥️ Estudando Python, C#, Angular, Typescript, Javascript, CSS e HTML
   <br>
 
   ##
@@ -30,6 +30,7 @@
   <img align="center" alt="Iago-Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iago-Csharp" height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Iago-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Iago-Js"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular.svg">
   <img align="center" alt="Iago-HTML"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS"    height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iago-MySQL"  height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
