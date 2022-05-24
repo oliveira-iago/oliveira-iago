@@ -3,7 +3,7 @@
 <div align="left">
   <b>• 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a></b>
   <br>
-  <b>• 💼 Atuando como Desenvolvedor Web Full Stack</b>
+  <b>• 💼 Atuando como Desenvolvedor Web Full Stack na <a href="https://www.wipro.com/">Wipro</a></b>
   <br>
   <b>• 📚 Cursando Ciências da Computação na Faculdade Impacta</b>
   <br>
