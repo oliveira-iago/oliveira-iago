@@ -1,4 +1,4 @@
-# Bem-vindx ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Olá, bem-vindx ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div align="left">
   <b>• 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a></b>
