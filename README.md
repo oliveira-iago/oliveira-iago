@@ -1,7 +1,6 @@
 # Bem-vindx ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div align="left">
-  #### 😜 Um pouco sobre mim:
   <b>• 💡 Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a></b>
   <br>
   <b>• 💼 Atuando como Desenvolvedor Web Full Stack</b>
