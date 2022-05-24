@@ -5,7 +5,7 @@
   <br>
   <b>• 💼 Atuando como Desenvolvedor Web Full Stack na <a href="https://www.wipro.com/">Wipro</a></b>
   <br>
-  <b>• 📚 Cursando Ciências da Computação na Faculdade Impacta</b>
+  <b>• 📚 Cursando Ciências da Computação na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a></b>
   <br>
   <b>• 🖥️ Estudando Python, C#, Angular, Typescript, Javascript, CSS e HTML</b>
   <br>
