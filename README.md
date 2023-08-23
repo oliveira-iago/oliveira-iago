@@ -24,7 +24,6 @@
   <img align="center" alt="Js"       height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML"     height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS"      height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <br/>
   <img align="center" alt="Csharp"    height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="netcore"   height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Git"       height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
