@@ -4,7 +4,7 @@
 <br>
 📚 4ºSemestre em <b>Ciência da Computação</b> na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a>
 <br>
-🖥️ Atuando mais focado em <b>Angular</b>, <b>Typescript</b>, <b>Python</b>, <b>C#</b>, <b>SQL Server</b>, <b>CSS</b> e <b>HTML</b>
+🖥️ Atuando com <b>Angular</b>, <b>Typescript</b>, <b>Python</b>, <b>C#</b>, <b>SQL Server</b>, <b>CSS</b> e <b>HTML</b>
 
 ##
 ### 🧠 Tenho conhecimento em:
