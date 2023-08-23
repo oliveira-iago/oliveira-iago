@@ -1,8 +1,6 @@
 # Olá, bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
 <div align="left">
-  <b>• 💡  Fundador da <a href="https://jovemtech.com.br">Jovem Tech</a></b>
-  <br>
   <b>• 💼 Atuando como Desenvolvedor Web Full Stack na <a href="https://www.wipro.com/">Wipro</a></b>
   <br>
   <b>• 📚 Cursando Ciências da Computação na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a></b>
