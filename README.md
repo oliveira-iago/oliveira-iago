@@ -1,15 +1,15 @@
 # Bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
 <div align="left">
-  <b>• 💼 Atuando como Desenvolvedor Web Full Stack na <a href="https://www.wipro.com/">Wipro</a></b>
+  <b>💼 Atuando como Desenvolvedor Web Full Stack na <a href="https://www.wipro.com/">Wipro</a></b>
   <br>
-  <b>• 📚 Cursando Ciências da Computação na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a></b>
+  <b>📚 Cursando Ciência da Computação na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a></b>
   <br>
-  <b>• 🖥️ Estudando Python, C#, Angular, Typescript, Javascript, CSS e HTML</b>
+  <b>🖥️ Atuando com Python, C#, Angular, Typescript, Javascript, CSS e HTML</b>
   <br>
 
   ##
-  #### 👾 Linguagens mais usadas em meus repositórios <br>
+  #### 🕹 Linguagens mais utilizadas em meus repositórios <br>
   <a href="https://github.com/oliveira-iago">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-iago&layout=compact&langs_count=7&theme=dracula">
   </a>
