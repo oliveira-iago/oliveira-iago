@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
-💼 <b>Desenvolvedor Web Full Stack</b> na <a href="https://www.wipro.com/">Wipro</a>
+💼 <b>Software Engineer @ Itaú</b>
 <br>
-📚 4ºSemestre em <b>Ciência da Computação</b> na <a href="https://www.impacta.edu.br/">Faculdade Impacta</a>
+📚 6ºSemestre em <b>Sistemas de Informação</b>
 <br>
 🖥️ Atuando com <b>Angular</b>, <b>Typescript</b>, <b>Python</b>, <b>C#</b>, <b>SQL Server</b>, <b>CSS</b> e <b>HTML</b>
 
